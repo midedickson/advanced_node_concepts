@@ -1,0 +1,14 @@
+{
+  "name": "advanced_node_concepts",
+  "version": "1.0.0",
+  "description": "\"Advanced Node Concepts\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
